@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Poppins";
+    background-color: #fafafa;
+    color: #0c0c0c;
+}
+
+.register-section,
+.login-section,
+.classroom-section,
+.lecturer-section,
+.student-section {
+    padding-bottom: 40px;
+}
+
+.nav-link {
+    color: #0c0c0c;
+}
